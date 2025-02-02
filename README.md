@@ -67,13 +67,6 @@ cd server
 npm install
 ```
 
-2. Create `.env` file:
-
-```env
-JWT_SECRET=eyJhbGciOiJIUzI1NiJ9.eyJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6InRoYXJ1dW4gIiwiZXhwIjoxNzM1MzY0OTk5LCJpYXQiOjE3MzUzNjQ5OTl9.KMWUGJmnj4CTBBcGJg5qB4JKZpBO7wn2SBXuGLlGFU
-PORT=5000
-```
-
 3. Start the server:
 
 ```bash
